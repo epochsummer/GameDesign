@@ -234,7 +234,7 @@ int main(int argc, char* argv[])
         update();
         render();
     }
-
+// 최수혁
     shutdown();
     return 0;
 }
